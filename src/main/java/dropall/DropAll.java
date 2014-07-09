@@ -1,4 +1,4 @@
-package dropall;
+package main.java.dropall;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Enderman;
