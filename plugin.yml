@@ -1,0 +1,3 @@
+name: BSPDropAll
+main: dropall.DropAll
+version: 1.0
