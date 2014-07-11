@@ -1,4 +1,4 @@
-package it.github.mats391.dropall;
+package io.github.mats391.dropall;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Enderman;
